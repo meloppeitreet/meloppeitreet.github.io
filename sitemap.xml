@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://meloppeitreet.github.io/posts/blog-introduction/</loc>
+    <loc>http://localhost:49678/posts/about-me/</loc>
+    <lastmod>2025-09-02T15:59:33+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:49678/</loc>
+    <lastmod>2025-09-02T15:59:33+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:49678/posts/</loc>
+    <lastmod>2025-09-02T15:59:33+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:49678/posts/blog-introduction/</loc>
     <lastmod>2025-09-02T15:34:18+08:00</lastmod>
   </url><url>
-    <loc>https://meloppeitreet.github.io/</loc>
-    <lastmod>2025-09-02T15:34:18+08:00</lastmod>
+    <loc>http://localhost:49678/categories/</loc>
   </url><url>
-    <loc>https://meloppeitreet.github.io/posts/</loc>
-    <lastmod>2025-09-02T15:34:18+08:00</lastmod>
-  </url><url>
-    <loc>https://meloppeitreet.github.io/categories/</loc>
-  </url><url>
-    <loc>https://meloppeitreet.github.io/tags/</loc>
+    <loc>http://localhost:49678/tags/</loc>
   </url>
 </urlset>

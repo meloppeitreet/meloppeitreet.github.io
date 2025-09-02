@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Meloppeitreet Blog</title>
-    <link>https://meloppeitreet.github.io/posts/</link>
+    <link>http://localhost:49678/posts/</link>
     <description>Recent content in Posts on Meloppeitreet Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Sep 2025 15:34:18 +0800</lastBuildDate>
-    <atom:link href="https://meloppeitreet.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Sep 2025 15:59:33 +0800</lastBuildDate>
+    <atom:link href="http://localhost:49678/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:49678/posts/about-me/</link>
+      <pubDate>Tue, 02 Sep 2025 15:59:33 +0800</pubDate>
+      <guid>http://localhost:49678/posts/about-me/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;This is a test.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Introduction</title>
-      <link>https://meloppeitreet.github.io/posts/blog-introduction/</link>
+      <link>http://localhost:49678/posts/blog-introduction/</link>
       <pubDate>Tue, 02 Sep 2025 15:34:18 +0800</pubDate>
-      <guid>https://meloppeitreet.github.io/posts/blog-introduction/</guid>
+      <guid>http://localhost:49678/posts/blog-introduction/</guid>
       <description>&lt;h1 id=&#34;blog-topics&#34;&gt;Blog Topics&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Welcome to my blog serving as a braindump! Stay tuned for further updates to this page&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
