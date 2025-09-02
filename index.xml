@@ -1,0 +1,29 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meloppeitreet Blog</title>
+    <link>https://meloppeitreet.github.io/</link>
+    <description>Recent content on Meloppeitreet Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Sep 2025 15:34:18 +0800</lastBuildDate>
+    
+        <atom:link href="https://meloppeitreet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Introduction</title>
+        <link>https://meloppeitreet.github.io/posts/blog-introduction/</link>
+        <pubDate>Tue, 02 Sep 2025 15:34:18 +0800</pubDate>
+        
+        <guid>https://meloppeitreet.github.io/posts/blog-introduction/</guid>
+        <description>Meloppeitreet Blog https://meloppeitreet.github.io/posts/blog-introduction/ -&lt;h1 id=&#34;blog-topics&#34;&gt;Blog Topics&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Welcome to my blog serving as a braindump! Stay tuned for further updates to this page&amp;hellip;&lt;/p&gt;
+- https://meloppeitreet.github.io/posts/blog-introduction/ - </description>
+        </item>
+    
+    
+  </channel>
+</rss> 
