@@ -5,6 +5,15 @@
         <link>https://meloppeitreet.github.io/categories/</link>
         <description>Recent content in Categories on Meloppeitreet</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://meloppeitreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://meloppeitreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Programming</title>
+        <link>https://meloppeitreet.github.io/categories/programming/</link>
+        <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://meloppeitreet.github.io/categories/programming/</guid>
+        <description>&lt;img src="https://meloppeitreet.github.io/categories/programming/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Programming" /&gt;</description>
+        </item>
+        
     </channel>
 </rss>
